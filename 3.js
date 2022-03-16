@@ -1,4 +1,4 @@
-/*a={
+a={
     name : "usman",
     class : "block chain",
     //     q1  q2 q3 q4  q5       <=  obtained marks
@@ -50,7 +50,7 @@ while(d<10){
     console.log(d)
     d++
 }
-*/
+
 
 // var is globaly describes value
 var name = "usman"
