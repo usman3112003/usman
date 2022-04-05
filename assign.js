@@ -108,7 +108,8 @@ class employee {
         employees.forEach(a => {
             
             if (a.id == this.e1){
-                console.log(a.salary/10 * 10 )         // percent form not correct
+                w = a.salary * 20 / 100         // here 20% is raise amount of salary and then divide with 100 because % = 100  
+                console.log(a.salary + w )        
                 
             } 
         });
